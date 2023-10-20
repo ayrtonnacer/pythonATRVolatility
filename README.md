@@ -6,4 +6,4 @@ If you want to learn more about the concept of volatility, the ATR indicator and
 
 In addition, you can [subscribe to my newsletter](https://pythonforfinance.substack.com/) to receive more content on how to use Python to analyze and operate in the financial markets.
 
-I hope you find this project useful and interesting! If you have any questions or suggestions, feel free to open an issue.
+I hope you find this project useful and interesting! If you have any questions or suggestions, don’t hesitate to contact me.
